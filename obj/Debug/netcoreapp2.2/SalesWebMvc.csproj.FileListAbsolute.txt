@@ -28,3 +28,16 @@ C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\S
 C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.dll
 C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.pdb
 C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\SalesWebMvc.csproj.CopyComplete
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Departments\Index.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Index.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Create.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
+C:\Users\Treinamento 5\Desktop\Web Project\SalesWebMvc\obj\Debug\netcoreapp2.2\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
